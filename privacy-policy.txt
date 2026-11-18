@@ -1,37 +1,97 @@
-# Privacy Policy
+# INFORMATIVA SULLA PRIVACY
+## App AurelioAcconciature
 
-[["We" or "I", or Website or App name]] takes your privacy seriously. To better protect your privacy [["we" or "I"]] provide this privacy policy notice explaining the way your personal information is collected and used.
+**Ultimo aggiornamento:** 18/11/2026
 
+### 1. Titolare del trattamento
 
-## Collection of Routine Information
+Il titolare del trattamento dei dati personali è:
 
-This [["website" or "app"]] track basic information about their [["visitors" or "users"]]. This information includes, but is not limited to, IP addresses, [["browser" or "app"]] details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this [["website" or "app"]]. The information is tracked for routine administration and maintenance purposes.
+**AurelioAcconciature**
 
+Email: aurelioacconciature@gmail.com
 
-## Cookies
+Sede legale: Via Zeveto 23, Chiari, 25032, BS
 
-Where necessary, this [["website" or "app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["visitor" or "user"]] and/or present the [["visitor" or "user"]] with customized content.
+Il titolare è responsabile del trattamento dei dati personali raccolti attraverso l'applicazione AurelioAcconciature, nel rispetto del Regolamento UE 2016/679 (GDPR) e della normativa italiana applicabile.
 
+### 2. Dati personali raccolti
 
-## Advertisement and Other Third Parties
+Attraverso l'applicazione possono essere raccolti i seguenti dati, in funzione delle funzionalità utilizzate dall'utente:
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["visitors" or "user"]] activities on this [["website" or "app"]] in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This [["website" or "app"]] has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+- Nome e cognome.
+- Indirizzo email.
+- Numero di telefono, se richiesto.
+- Dati relativi all'account e all'autenticazione.
+- Informazioni relative alle prenotazioni degli appuntamenti.
+- Informazioni sulle preferenze e sui servizi selezionati.
+- Dati tecnici necessari al funzionamento e alla sicurezza dell'applicazione.
 
+### 3. Finalità del trattamento
 
-## Links to Third Party Websites
+I dati personali vengono utilizzati per:
 
-[["We" or "I"]] have included links on this [["website" or "app"]] for your use and reference. [["We" or "I"]] are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from [["our" or "my"]] own.
+- Consentire la registrazione e l'accesso all'app.
+- Gestire gli account degli utenti.
+- Consentire la prenotazione e la gestione degli appuntamenti.
+- Comunicare con i clienti in relazione ai servizi richiesti.
+- Fornire informazioni sui servizi e sui prodotti del salone.
+- Garantire il corretto funzionamento e la sicurezza dell'applicazione.
 
+Eventuali comunicazioni promozionali saranno gestite nel rispetto delle disposizioni applicabili e, ove necessario, previo consenso dell'interessato.
 
-## Security
+### 4. Modalità di trattamento e conservazione
 
-The security of your personal information is important to [["us" or "me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While [["we" or "I"]] strive to use commercially acceptable means to protect your personal information, [["we" or "I"]] cannot guarantee its absolute security.
+I dati vengono trattati mediante strumenti informatici e telematici, adottando misure di sicurezza adeguate per proteggerli da accessi non autorizzati, perdita, divulgazione o utilizzo improprio.
 
+I dati relativi agli account e alle prenotazioni sono gestiti attraverso il server del gestionale utilizzato dal salone.
 
-## Changes To This Privacy PolicyThis Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-[["We" or "I"]] reserve the right to update or change [["our" or "my"]] Privacy Policy at any time and you should check this Privacy Policy periodically. If [["we" or "I"]] make any material changes to this Privacy Policy, [["we" or "I"]] will notify you either through the email address you have provided [["us" or "me"]], or by placing a prominent notice on [["our" or "my"]] [["website" or "app"]].
+I dati vengono conservati per il tempo necessario al raggiungimento delle finalità per cui sono stati raccolti e nel rispetto degli eventuali obblighi di legge.
 
+### 5. Comunicazione a terzi
 
-## Contact Information
+I dati personali possono essere comunicati a fornitori di servizi informatici e gestionali che supportano il funzionamento dell'applicazione e la gestione delle prenotazioni, nei limiti necessari all'erogazione dei servizi.
 
-For any questions or concerns regarding the privacy policy, please send [["us" or "me"]] an email to [[Contact Email Address]].
+Tali soggetti operano, ove previsto, in qualità di responsabili del trattamento o secondo il ruolo previsto dalla normativa applicabile.
+
+I dati non vengono venduti a terzi per finalità commerciali.
+
+### 6. Diritti dell'interessato
+
+L'utente può esercitare i diritti previsti dagli articoli 15-22 del GDPR, tra cui:
+
+- Accesso ai propri dati personali.
+- Rettifica dei dati inesatti.
+- Cancellazione dei dati, nei casi previsti dalla legge.
+- Limitazione del trattamento.
+- Opposizione al trattamento, ove applicabile.
+- Portabilità dei dati, nei casi previsti.
+- Revoca del consenso precedentemente prestato.
+
+Per esercitare i propri diritti è possibile scrivere a:
+
+**aurelioacconciature@gmail.com**
+
+### 7. Cancellazione dell'account
+
+L'utente può richiedere la cancellazione del proprio account e dei relativi dati personali attraverso le funzionalità messe a disposizione nell'applicazione oppure secondo la procedura di cancellazione comunicata dal titolare.
+
+I dati soggetti a obblighi legali di conservazione potranno essere mantenuti per il periodo previsto dalla normativa applicabile.
+
+### 8. Sicurezza dei dati
+
+Il titolare adotta misure tecniche e organizzative adeguate per proteggere i dati personali e prevenire accessi non autorizzati, alterazioni, divulgazioni o distruzioni accidentali.
+
+### 9. Modifiche alla presente informativa
+
+La presente informativa può essere aggiornata in caso di modifiche alle funzionalità dell'applicazione o alla normativa applicabile.
+
+Le eventuali modifiche saranno rese disponibili attraverso i canali ufficiali dell'applicazione.
+
+### 10. Contatti
+
+Per qualsiasi informazione relativa alla privacy e al trattamento dei dati personali:
+
+**AurelioAcconciature**
+
+Email: aurelioacconciature@gmail.com
